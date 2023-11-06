@@ -1,4 +1,4 @@
-This is a [React.js + vite] project bootstrapped with [`create-next-app`]
+This is a [React.js + vite] project bootstrapped with [`create-react-app`]
 
 ## Getting Started
 

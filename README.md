@@ -6,7 +6,7 @@ First, clone the project using:
 
 ```bash
 
-git clone https://github.com/Arsh1070/AWS-Cognito-User-Authentication.git
+git clone https://github.com/Arsh1070/React-vite-app.git
 
 ```
 
@@ -18,9 +18,7 @@ yarn install
 
 ```
 
-Third, check .env.example file, create new .env file in root of project & fill all environment variables. You need aws cognito configuration.
-
-Forth, start the development server using:
+Third, start the development server using:
 
 ```bash
 
@@ -30,4 +28,4 @@ yarn dev
 
 Now you can sign in or sign up by aws cognito.
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+Open [http://127.0.0.1:5173](http://127.0.0.1:5173) with your browser to see the result.
